@@ -1,7 +1,10 @@
-````markdown
+
 # Internet Connection Status Check in JavaScript
 
-![GitHub](https://img.shields.io/github/license/belayetriad/internet-connection-status-check-in-js)
+[![GitHub License](https://img.shields.io/github/license/belayetriad/Internet-Connection-Status-Check-in-JavaScript)](https://github.com/belayetriad/Internet-Connection-Status-Check-in-JavaScript/blob/main/LICENSE.md)
+
+
+
 
 ## Overview
 
@@ -20,7 +23,7 @@ This JavaScript project checks and displays the internet connection status using
    ```bash
    git clone https://github.com/belayetriad/internet-connection-status-check-in-js.git
    ```
-````
+ 
 
 2. Open the `index.html` file in a web browser.
 
@@ -39,7 +42,7 @@ The popup will automatically close after a few seconds.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This code is available under the [MIT license](http://opensource.org/licenses/MIT).
 
 ## Acknowledgments
 
