@@ -1,7 +1,8 @@
 
 # Internet Connection Status Check in JavaScript
 
-[![GitHub](https://img.shields.io/github/license/belayetriad/Internet-Connection-Status-Check-in-JavaScript)](https://github.com/belayetriad/Internet-Connection-Status-Check-in-JavaScript)
+[![GitHub](https://img.shields.io/github/license/belayetriad/Internet-Connection-Status-Check-in-JavaScript)](https://github.com/belayetriad/Internet-Connection-Status-Check-in-JavaScript/blob/main/LICENSE)
+
 
 
 ## Overview
