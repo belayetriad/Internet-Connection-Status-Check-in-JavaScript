@@ -1,4 +1,4 @@
-````markdown
+
 # Internet Connection Status Check in JavaScript
 
 ![GitHub](https://img.shields.io/github/license/belayetriad/internet-connection-status-check-in-js)
@@ -20,7 +20,7 @@ This JavaScript project checks and displays the internet connection status using
    ```bash
    git clone https://github.com/belayetriad/internet-connection-status-check-in-js.git
    ```
-````
+ 
 
 2. Open the `index.html` file in a web browser.
 
