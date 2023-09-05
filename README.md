@@ -42,7 +42,7 @@ The popup will automatically close after a few seconds.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This code is available under the [MIT license](http://opensource.org/licenses/MIT).
 
 ## Acknowledgments
 
